@@ -38,7 +38,7 @@ console.log(solution);
 	find: ['d', 'e'],
 	// lists have all items
 	need: [],
-	// efficience
+	// efficiency
 	rank: 0.4347826086956522
 }
 
