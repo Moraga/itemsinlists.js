@@ -1,0 +1,26 @@
+{
+  "name": "itensinlists",
+  "version": "0.1.0",
+  "description": "Finds the best lists combination for required items",
+  "main": "itemsinlists",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moraga/itemsinlists.js.git"
+  },
+  "keywords": [
+    "items",
+    "lists",
+    "array",
+	"combination",
+	"algorithm"
+  ],
+  "author": "Alejandro Moraga <moraga86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moraga/itemsinlists.js/issues"
+  },
+  "homepage": "https://github.com/Moraga/itemsinlists.js"
+}
